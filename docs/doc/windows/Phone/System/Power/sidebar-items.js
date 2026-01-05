@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["IPowerManagerStatics","IPowerManagerStatics2","IPowerManagerStatics2_Vtbl","IPowerManagerStatics_Vtbl","PowerManager","PowerSavingMode"]};

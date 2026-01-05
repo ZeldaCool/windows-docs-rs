@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["IVibrationDevice","IVibrationDeviceStatics","IVibrationDeviceStatics_Vtbl","IVibrationDevice_Vtbl","VibrationDevice"]};

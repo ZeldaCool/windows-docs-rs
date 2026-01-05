@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["ApplicationProfile","ApplicationProfileModes","IApplicationProfileStatics","IApplicationProfileStatics_Vtbl"]};

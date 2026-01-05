@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["Battery","IBattery","IBatteryStatics","IBatteryStatics_Vtbl","IBattery_Vtbl"]};

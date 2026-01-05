@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["IActionFeedbackHandler","IActionProvider"],"trait":["IActionFeedbackHandler_Impl","IActionProvider_Impl"]};

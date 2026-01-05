@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["Mcp"],"struct":["AgentAuthorizationResponse","AgentContext","AgentInfo","AgentResources","IAgentContext","IAgentContextStatics","IAgentInfo","IAgentResourcesStatics"]};

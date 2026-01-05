@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"struct":["BackPressedEventArgs","CameraEventArgs","HardwareButtons","IBackPressedEventArgs","IBackPressedEventArgs_Vtbl","ICameraEventArgs","ICameraEventArgs_Vtbl","IHardwareButtonsStatics","IHardwareButtonsStatics2","IHardwareButtonsStatics2_Vtbl","IHardwareButtonsStatics_Vtbl"]};
